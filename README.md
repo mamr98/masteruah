@@ -40,6 +40,9 @@ Tarea de clase
 ## Configuramos Ssh
 <img src="ssh.png"/>
 
+## Doble factor de autenticación
+No lo puedo hacer porque tengo la cámara del móvil rota.
+
 ## Amigos en GitHub
 |Amigos |Url |
 |-------|--------|
