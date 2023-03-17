@@ -38,5 +38,11 @@ Tarea de clase
 36. cat clave.pub
 
 ## Configuramos Ssh
+<img src="ssh.png"/>
 
-![image](https://user-images.githubusercontent.com/128160842/225939494-4e72cb3a-b6e1-49ec-86ad-4244aeb3b2e6.png)
+## Amigos en GitHub
+|Amigos |Url |
+|-------|--------|
+|Miguel |https://github.com/miguelonvaa|
+|Sergio |https://github.com/sergiofrubio|
+|Salva  |https://github.com/Salvitajiji%7C|
