@@ -36,3 +36,6 @@ Tarea de clase
 34. ls
 35. ssh-keygen
 36. cat clave.pub
+
+## Configuramos Ssh
+
