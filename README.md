@@ -39,3 +39,4 @@ Tarea de clase
 
 ## Configuramos Ssh
 
+![image](https://user-images.githubusercontent.com/128160842/225939494-4e72cb3a-b6e1-49ec-86ad-4244aeb3b2e6.png)
